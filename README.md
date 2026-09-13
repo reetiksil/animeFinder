@@ -3,6 +3,8 @@
 # 🌸 AnimeFinder
 
 > A fast, modern anime discovery app built with React and Vite. Search thousands of titles, filter by genre and status, and find out exactly where to legally stream each one — all backed by the free Kitsu API.
+> <img width="1721" height="968" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/139c1bc7-c345-4cd7-8694-4463c0bf1c28" />
+
 
 ## ✨ Features
 
